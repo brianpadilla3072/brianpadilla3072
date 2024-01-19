@@ -22,37 +22,37 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Temporizador - DNP</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/brianpadilla3072/Temporizador-DNP" target="_blank"><img src="https://raw.githubusercontent.com/brianpadilla3072/Temporizador-DNP/main/img/presentacion.jpeg" width="400" alt="Temporizador - DNP"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/brianpadilla3072/Temporizador-DNP" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Este temporizador Fue creado para definir los tiempos, tiene acesos directos para 20, 15 y 5 minutos; Esta desarrollado en html,css y javascript por lo que sirve para la web pero gracias a electron tambien puede ser un programa para el escritorio.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Calendario Jovenes Teen</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://brianpadilla3072.github.io/Jovenes-Teens-Calendar/" target="_blank"><img src="https://i.imgur.com/lia3VfR.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/brianpadilla3072/Jovenes-Teens-Calendar" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Este calendario usa firebase para almacenar y hace las peticiones de las fechas, las muestra en un calendario echo con html,css y javascript, usa Moment para acceder a las fechas.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -61,12 +61,12 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Mapa de Barrios</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://brianpadilla3072.github.io/mapa-de-barrios/" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/brianpadilla3072/mapa-de-barrios" target="_blank">
+<img src="https://i.imgur.com/4ICeTT7.jpeg">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
