@@ -63,7 +63,7 @@
 <td width="50%">
 <h3 align="center">Mapa de Barrios</h3>
 <div align="center">
-<a href="https://brianpadilla3072.github.io/mapa-de-barrios/" target="_blank"><img src="https://github.com/brianpadilla3072/mapa-de-barrios" width="400" alt="Curso intermedio Android"></a>
+<a href="https://brianpadilla3072.github.io/mapa-de-barrios/" target="_blank"><img src="https://i.imgur.com/4ICeTT7.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/brianpadilla3072/mapa-de-barrios" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
