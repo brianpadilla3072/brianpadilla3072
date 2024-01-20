@@ -9,13 +9,16 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer
+- 📲 FullStack developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) 
 <!-- 
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 -->
+<p align="center">
+Soy un apasionado del desarrollo de software con un viaje que comenzó en 2020. Mi enfoque autodidacta me ha llevado desde Java hasta explorar HTML, CSS y JavaScript para la creación de interfaces web. He ampliado mis habilidades en el desarrollo backend con PHP, React, Node.js y Express, y he incursionado con éxito en el desarrollo móvil utilizando React Native. Con experiencia en el diseño de aplicaciones de escritorio mediante Electron, mi perfil se destaca por la versatilidad. ¡Emocionado por contribuir en proyectos desafiantes y dinámicos! 🚀 ¡Explorando el código y construyendo soluciones innovadoras! 💻✨
+</p>
 <br>
 
 ## Proyectos destacados
