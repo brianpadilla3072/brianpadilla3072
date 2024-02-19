@@ -58,11 +58,10 @@ Soy un apasionado del desarrollo de software con un viaje que comenzó en 2020. 
 </p>
 </p>Este calendario usa firebase para almacenar y hace las peticiones de las fechas, las muestra en un calendario echo con html,css y javascript, usa Moment para acceder a las fechas.</p>
 </div>                                                             
-</table>                                                                                 
 </div>
 <br>
 
-<table>
+
 <tr>
 <td width="50%">
 <h3 align="center">Mapa de Barrios</h3>
@@ -77,6 +76,22 @@ Soy un apasionado del desarrollo de software con un viaje que comenzó en 2020. 
 </a>
 </p>
 <p>Esta web usa leaflet para visualizar los barrios y los lugares dentro de esos barrios, la aplicacion usa html,css, javascript</p>
+                                                                               
+                                                                                      
+</td>
+<td width="50%">
+<h3 align="center">Aplicación para la Iglesia DNP</h3>
+<div align="center">
+<a href="https://brianpadilla3072.github.io/mapa-de-barrios/" target="_blank"><img src="./diosnuestropadre.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/brianpadilla3072/client-dnp-app" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Desarrollé la aplicación "Dios Nuestro Padre - Aplicación para la Iglesia DNP" con el objetivo de proporcionar a los miembros de la iglesia acceso rápido y fácil a devocionales, fechas importantes y funcionalidades de perfil. Utilizando tecnologías modernas como React Native y Express, creamos una plataforma intuitiva y centrada en el usuario que fomenta la conexión espiritual y comunitaria</p>
 </table>                                                                                 
 </div>
                                                                                       
