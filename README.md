@@ -16,6 +16,20 @@
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 -->
+⚙ **Habilidades Tecnicas** <br/>
+✨**New:** 
+  - React| React Native | redux | JavaScript | HTML5 | CSS3 | Nextjs
+  - Node.js | express | MonguDB | postgresSQL | Nestjs
+  - Jest | Jasmine | Vitest 
+<br/>
+
+🔅**Teacher Asistant en Henry** <br>
+  Voluntariado en cual se brinda un espacio a los aspirantes a *fullstack* para que puedan despejar sus dudas, resolucion de codigo, dinamicas de grupo en equipo 
+<br/>
+
+💼**Experiencia** <br/>
+- 👨‍💻 Actualmente - Desarrollador de aplicaciones web en Nest , MongoDb y PostgreSQL <br>
+
 <p align="center">
 Soy un apasionado del desarrollo de software con un viaje que comenzó en 2020. Mi enfoque autodidacta me ha llevado desde Java hasta explorar HTML, CSS y JavaScript para la creación de interfaces web. He ampliado mis habilidades en el desarrollo backend con PHP, React, Node.js y Express, y he incursionado con éxito en el desarrollo móvil utilizando React Native. Con experiencia en el diseño de aplicaciones de escritorio mediante Electron, mi perfil se destaca por la versatilidad. ¡Emocionado por contribuir en proyectos desafiantes y dinámicos! 🚀 ¡Explorando el código y construyendo soluciones innovadoras! 💻✨
 </p>
