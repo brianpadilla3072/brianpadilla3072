@@ -133,9 +133,9 @@ Soy un apasionado del desarrollo de software con un viaje que comenzó en 2020. 
 </p>
 
 <h3 align="left">📬 Información de contacto</h3>
-📧 marcos.rehtanz@gmail.com
+📧 padillabrian830@gmail.com
 <p align="left">
-<a href="https://linkedin.com/in/juan-marcos-mansilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-marcos-mansilla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brianpadilla01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-padilla" height="30" width="40" /></a>
   
 </p>
 
